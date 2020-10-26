@@ -20,6 +20,14 @@
       "description": "Setting this to ANYTHING will enable env mode",
       "value": "ANYTHING"
     },
+    "API_HASH": {
+      "description": "your API_HASH get it from telegram.org/api",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "get it from tx.me/HindiXstream",
+      "value": ""
+    },
     "URL": {
       "description": "your URL, in the format https://<applname>.herokuapp.com/ with the trailing /",
       "value": ""
