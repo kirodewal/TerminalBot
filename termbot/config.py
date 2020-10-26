@@ -9,7 +9,7 @@ import os
 class Config(object):
     LOGGER = True
     # 
-    API_ID = os.environ.get("API_ID", None)
+    APP_ID = os.environ.get("APP_ID", None)
     API_HASH = is.environ.get("API_HASH", None)
     URL = os.environ.get("URL", None)
     PORT = int(os.environ.get("PORT", 5000))
